@@ -6,3 +6,4 @@ It is a capstone project that requires to create custom features to understand N
 2. pickup_datetime: The day and the exact time the driver picks up passengers
 3. dropoff_datetime: The day and the exact time the driver drops off passengers
 4. passenger_count: The number of passengers on taxi
+5. 
