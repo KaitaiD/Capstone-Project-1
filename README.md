@@ -7,3 +7,4 @@ It is a capstone project that requires to create custom features to understand N
 3. dropoff_datetime: The day and the exact time the driver drops off passengers
 4. passenger_count: The number of passengers on taxi
 5. trip_distance: The total length of the journey (km)
+6.
