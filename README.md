@@ -8,3 +8,4 @@ It is a capstone project that requires to create custom features to understand N
 4. passenger_count: The number of passengers on taxi
 5. trip_distance: The total length of the journey (km)
 6. pickup_longitude/pickup_latitude: The location (or coordinate) of the pickup position
+7. dropoff_longitude/dropoff_latitude: The location (or coordinate) of the dropoff position
