@@ -12,3 +12,5 @@ It is a capstone project that requires to create custom features to understand N
 8. payment_type: 1 - Credit card; 2 - Cash; 3 - No payment; 4 - Dispute
 9. trip_duration: The duration of the trip in minutes
 10. pickup_neighbourhood/dropoff_neighbourhood: Pickup/Dropoff area that is named in area code
+
+## EDA
