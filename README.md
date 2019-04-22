@@ -4,8 +4,8 @@ It is a capstone project that requires to create custom features to understand N
 ## Features for the prediction
 1. __id__: Each driveer has a special ID
 2. __pickup_datetime__: The day and the exact time the driver picks up passengers
-3. dropoff_datetime: The day and the exact time the driver drops off passengers
-4. passenger_count: The number of passengers on taxi
+3. __dropoff_datetime__: The day and the exact time the driver drops off passengers
+4. __passenger_count__: The number of passengers on taxi
 5. trip_distance: The total length of the journey (km)
 6. pickup_longitude/pickup_latitude: The location (or coordinate) of the pickup position
 7. dropoff_longitude/dropoff_latitude: The location (or coordinate) of the dropoff position
