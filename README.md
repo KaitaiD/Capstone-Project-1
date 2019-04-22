@@ -14,3 +14,4 @@ It is a capstone project that requires to create custom features to understand N
 10. pickup_neighbourhood/dropoff_neighbourhood: Pickup/Dropoff area that is named in area code
 
 ## EDA
+1. Histgram: It is used to gain an insight of the target column
