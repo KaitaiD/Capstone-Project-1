@@ -25,3 +25,5 @@ It is a capstone project that requires to create custom features to understand N
 3. pairplot: It is for the inner patterns between the pickup/dropoff location, trip duration and payment
 
 ![alt text](https://github.com/KaitaiD/Capstone-Project-1/blob/master/3.JPG)
+
+## Prediction
