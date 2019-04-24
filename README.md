@@ -16,7 +16,7 @@ It is a capstone project that requires to create custom features to understand N
 ## EDA
 1. Histgram: It is used to gain an insight of the target column
 
-![alt text](https://github.com/KaitaiD/Capstone-Project-1/blob/master/1.jpg)
+![alt text](https://github.com/KaitaiD/Capstone-Project-1/blob/master/1.JPG)
 
 2. lmplot: It is used to see the linear inter-relationship between the features and target
 3. pairplot: It is for the inner patterns between the pickup/dropoff location, trip duration and payment
