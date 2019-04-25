@@ -27,4 +27,4 @@ It is a capstone project that requires to create custom features to understand N
 ![alt text](https://github.com/KaitaiD/Capstone-Project-1/blob/master/3.JPG)
 
 ## Prediction
-A number of feature engineering is done to obtain the best prediction result.
+A number of feature engineering is done to obtain the best prediction result. For example, pickup and dropoff time is expanded in the code to check if it is in the weekend.
