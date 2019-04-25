@@ -28,3 +28,5 @@ It is a capstone project that requires to create custom features to understand N
 
 ## Prediction
 A number of feature engineering is done to obtain the best prediction result. For example, pickup and dropoff time is expanded in the code to check if it is in the weekend. And it then gets expanded further to break the pickup/dropoff time into Minute, Hours, Day, Week, Month and Year. It turns out that more detailed features will help improve the prediction accuracy.
+
+The result is calculated by R square error. And
