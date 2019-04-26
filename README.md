@@ -31,4 +31,6 @@ A number of feature engineering is done to obtain the best prediction result. Fo
 
 The result is calculated by R square error. And it is compared with the situations where different features are used. 
 
-With
+The R-square error is recorded for each of the three cases as follow:
+
+
