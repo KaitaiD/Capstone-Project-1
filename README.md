@@ -33,4 +33,6 @@ The result is calculated by R square error. And it is compared with the situatio
 
 The R-square error is recorded for each of the three cases as follow:
 
+Primitive
+
 
